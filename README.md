@@ -1,5 +1,4 @@
 # DataCleaningAssignment
-# DataCleaningAssignment
 This repo is for the Week 4 Getting and Cleaning Data project 
 It contains the following files/scripts:
 
